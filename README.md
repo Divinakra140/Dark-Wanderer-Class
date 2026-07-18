@@ -192,7 +192,7 @@ online on Nexus Mods. More likely to get a response from Divinakra.
 
 Credits:
 
-Divinakra: D2RLAN Mod Author of "Dark Wanderer Class" Mod
-Emuhel: Original Nexus Mods Author of "Play as Diablo" D2RMM Mod. 
-Bonsey: Developer of D2RLAN, D2Compare, MoPaH and many more helpful tools
-DazUki: Co-Author of D2Compare
+- Divinakra: D2RLAN Mod Author of "Dark Wanderer Class" Mod
+- Emuhel: Original Nexus Mods Author of "Play as Diablo" D2RMM Mod. 
+- Bonsey: Developer of D2RLAN, D2Compare, MoPaH and many more helpful tools
+- DazUki: Co-Author of D2Compare
