@@ -53,7 +53,8 @@ due to the different structure of the D2RLAN files. The tool
 D2Compare created by Bonsey and updated by DazUki available 
 on the D2R-Modding Discord made the process a lot faster! 
 
-<img width="845" height="1829" alt="Screenshot 2026-07-18 at 2 58 13 AM" src="https://github.com/user-attachments/assets/47e39000-87f5-4a4c-878f-b3e01bf4dbb4" />
+<img width="847" height="657" alt="Screenshot 2026-07-18 at 3 16 21 AM" src="https://github.com/user-attachments/assets/6ff5b623-5e32-4244-8ee9-16cddd0406e8" />
+
 
 Once completed, I noticed some things were not quite to my 
 liking; the small charm that turned the player into Diablo
