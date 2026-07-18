@@ -157,6 +157,7 @@ and I decided to leave it in there, for novelty's sake.
 
 <img width="954" height="1275" alt="Screenshot 2026-07-18 at 2 40 07 AM" src="https://github.com/user-attachments/assets/09b8cbeb-594c-4e7d-b24b-84426550af41" />
 
+- Known Bugs: The game will crash if you open the skill tree while using a gamepad. This is due to the Diablo/Dark Wanderer Skills not being contained within a skill tree. This is my #1 priority to fix on the next update if and when that occurs.
  
 Future Developments:
 
