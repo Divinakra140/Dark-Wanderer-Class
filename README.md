@@ -169,6 +169,7 @@ or join in on the fun.
 - Add Deckard Cain over the Boss Diablo 
 - Add Deckard Cain Voice Line " Stay a while and listen!" 
 for Boss Diablo's entrance
+- Add Gamepad support for skills (currently mouse and keyboard only)
 - Add Tyrael over Baal
 - Add other "good" characters over the main bosses
 - Replace all monsters with players and friendly Npc's
