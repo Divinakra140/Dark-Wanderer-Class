@@ -4,7 +4,7 @@
 
 Original "Play as Diablo" mod by Emuhel on Nexus mods 
 with a bunch of added features and improvements. Thank
-you Emuhel for agreeing to me developing the D2RLAN Port!
+you Emuhel for agreeing to me developing the D2RLAN Port! [Video Demo](https://www.youtube.com/watch?v=YEp1HQBzKVE&t=131s)
 
 <img width="896" height="845" alt="Screenshot 2026-07-18 at 3 12 55 AM" src="https://github.com/user-attachments/assets/496df533-518c-44ff-a351-084124fd99a3" />
 
@@ -45,7 +45,6 @@ Mod Description and Credits:
 
 <img width="2526" height="1446" alt="Screenshot 2026-07-18 at 3 17 49 AM" src="https://github.com/user-attachments/assets/7d0c6a17-314b-46bc-85d5-2edb9f73b3b5" />
 
-[Video Demo](https://www.youtube.com/watch?v=YEp1HQBzKVE&t=131s)
 This mod started out as a simple D2RLAN port of Emuhel's "Play 
 as Diablo" mod made for D2RMM found on Nexus. He agreed to me
 making a D2RLAN port of the mod. The task of converting 
