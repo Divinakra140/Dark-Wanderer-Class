@@ -146,7 +146,9 @@ and is no longer a reskinned necromancer bone prison.
 - Sea of Flame base skill added to both Diablo and Dark Wanderer
 
   <img width="3024" height="1964" alt="Screenshot 2026-07-18 at 2 42 13 AM" src="https://github.com/user-attachments/assets/1b864dcb-a806-4058-902d-ed93c659ac83" />
-  <img width="954" height="1275" alt="Screenshot 2026-07-18 at 2 40 07 AM" src="https://github.com/user-attachments/assets/f56a0c1e-f331-4914-9580-027025eb4021" />
+
+<img width="2255" height="1191" alt="Screenshot 2026-07-18 at 2 05 54 AM" src="https://github.com/user-attachments/assets/a6f5b8b8-c65b-447d-80e2-cc27bc2fe326" />
+
 
 - "Sea of Flame" label and description added to skill.
 - Dark Wanderer comes with an ominous music that plays over the 
