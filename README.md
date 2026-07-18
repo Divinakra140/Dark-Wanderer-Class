@@ -45,6 +45,7 @@ Mod Description and Credits:
 
 <img width="2526" height="1446" alt="Screenshot 2026-07-18 at 3 17 49 AM" src="https://github.com/user-attachments/assets/7d0c6a17-314b-46bc-85d5-2edb9f73b3b5" />
 
+[Video Demo](https://www.youtube.com/watch?v=YEp1HQBzKVE&t=131s)
 This mod started out as a simple D2RLAN port of Emuhel's "Play 
 as Diablo" mod made for D2RMM found on Nexus. He agreed to me
 making a D2RLAN port of the mod. The task of converting 
