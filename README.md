@@ -23,7 +23,7 @@ Note: these instructions are for manual installation:
 where it says "Download New Mod")
 
 Mod Manual Installation Instructions:
-1. Download the .zip file called dark_wanderer_d2rlan.zip 
+1. Download the .zip file called [dark_wanderer_d2rlan.zip](https://github.com/Divinakra140/Dark-Wanderer-Class/releases/download/v1.0/Dark_Wanderer_Class_v1.0.zip)
 2. Unzip the file. it should result in a "mods" folder.
 3. Place that "mods" folder in your D2RLAN Directory 
 it should sit right next to the D2R.exe 
