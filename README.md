@@ -158,6 +158,39 @@ and I decided to leave it in there, for novelty's sake.
 
 <img width="954" height="1275" alt="Screenshot 2026-07-18 at 2 40 07 AM" src="https://github.com/user-attachments/assets/09b8cbeb-594c-4e7d-b24b-84426550af41" />
 
+Dclone Battlepack Changelog: (v.1.1 of Darkwanderer Class)
+
+- Dclone has been added in two different locations so that he is 
+always there on all difficulties without having to use the stone 
+of jordan to summon him: 
+1. Dclone #1 is now where the Smith was in the barracks near the outer 
+cloister, smith will no longer show up.
+2. Dclone #2 is where Rakanishu was in Stony Field near the Cairn Stones. 
+- Akara now sells infinite Full Rejuvination Potions, to help you
+survive the Hell Difficulty Dclone Battles. 
+- Akara now sells some extra items to help in making new recipes 
+to give you powerful stats to be able to beat Dclone on Hell mode with 
+Dark Wanderer Diablo Skills. Since it is close to impossible to beat
+with the stock Dark Wanderer Diablo State.
+- 11 New Recipes have been added to give you S-tier Equipment to allow 
+you to be powerful enough to defeat Dclone on Hell Mode:
+1. Any Weapon + El Rune = +33 Replenish Life
+2. Any Weapon + Tir Rune = +200% Regenerate Mana
+3. Any Belt + El Rune = +33 Replenish Life
+4. Any Belt + Tir Rune = +200% Regenerate Mana
+5. Any Belt + Minor Healing Potion = Level 20 Prayer Aura
+6. Any Belt + Minor Mana Potion = Level 20 Defiance Aura
+7. Any Belt + Rejuvination Potion = Level 40 Energy Shield 
+8. Any Boots + Antitode Potion = Prevent Monster Heal + 100% Open Wounds
+9. Any Ring + Thawing Potion = Level 20 Coviction Aura
+10. Any Gloves + Stamina Potion = +500% Enhanced Damage
+11. Any Ring + Scroll of Identify = Cannot Be Frozen
+- These above recipes will allow for an easy way to upgrade/downgrade
+Diablo's stats and power, when switching between Dclone Battles and 
+normal story progression, as the player wants. You can also just 
+use them to be super overpowered in hell mode for story progression
+and item farming in general :)
+
 - Known Bugs: The game will crash if you open the skill tree while using a gamepad. This is due to the Diablo/Dark Wanderer Skills not being contained within a skill tree. This is my #1 priority to fix on the next update if and when that occurs.
  
 Future Developments:
