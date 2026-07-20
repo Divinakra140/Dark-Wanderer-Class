@@ -854,6 +854,13 @@
     }
   },
   {
+    "akara_stone_of_jordan": {
+      "normal": "ring/ring",
+      "uber": "ring/ring",
+      "ultra": "ring/ring"
+    }
+  },
+  {
     "amulet_of_the_viper": {
       "normal": "amulet/viper_amulet",
       "uber": "amulet/viper_amulet",
