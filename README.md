@@ -191,6 +191,12 @@ normal story progression, as the player wants. You can also just
 use them to be super overpowered in hell mode for story progression
 and item farming in general :)
 
+v1.2-hotfix:
+
+- Fixed the "Failed to open desecrated zones config file" error on current
+versions of D2RLAN. The mod now includes the D2RLAN TCP base files (Terror
+Zones, Sunder Charms), merged with the Dark Wanderer changes. No gameplay changes.
+
 - Known Bugs: The game will crash if you open the skill tree while using a gamepad. This is due to the Diablo/Dark Wanderer Skills not being contained within a skill tree. This is my #1 priority to fix on the next update if and when that occurs.
  
 Future Developments:
