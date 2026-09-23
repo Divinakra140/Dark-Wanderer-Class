@@ -192,6 +192,13 @@ normal story progression, as the player wants. You can also just
 use them to be super overpowered in hell mode for story progression
 and item farming in general :)
 
+v1.2.2-hotfix:
+
+- Fixed the black screen / "nType < DataTablesGetNumItemTypes" crash on current D2RLAN.
+Removed leftover Reign of the Warlock data that does not exist in D2RLAN (Colossal Jewel,
+Crafted Sunder Charm, Warlock cube recipes, and references to Warlock-only stats, sounds
+and effects). No Dark Wanderer content was changed.
+
 v1.2.1-hotfix:
 
 - Fixed the game not opening on current versions of D2RLAN. The unique items
