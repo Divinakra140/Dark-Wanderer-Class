@@ -192,6 +192,11 @@ normal story progression, as the player wants. You can also just
 use them to be super overpowered in hell mode for story progression
 and item farming in general :)
 
+v1.2.4-hotfix:
+
+- Fixed the "pwSuperUniqueLookup != SUPERUNIQUE_NONE" crash on current D2RLAN
+(the superunique ID column had been disabled while adding the TCP files).
+
 v1.2.3-hotfix:
 
 - Fixed the "nIndex < monsterStatsEx.size()" crash on current D2RLAN. Removed leftover
