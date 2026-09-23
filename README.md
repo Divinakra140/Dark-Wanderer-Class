@@ -192,6 +192,13 @@ normal story progression, as the player wants. You can also just
 use them to be super overpowered in hell mode for story progression
 and item farming in general :)
 
+v1.2.1-hotfix:
+
+- Fixed the game not opening on current versions of D2RLAN. The unique items
+table now follows the D2RLAN TCP layout (Sunder Charms in their correct slots).
+Diablo's Soulstone and Akara's Stone of Jordan keep their item IDs, so existing
+characters keep them.
+
 v1.2-hotfix:
 
 - Fixed the "Failed to open desecrated zones config file" error on current
