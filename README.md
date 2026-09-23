@@ -24,22 +24,23 @@ Note: these instructions are for manual installation:
 where it says "Download New Mod")
 
 Mod Manual Installation Instructions:
-1. Download the .zip file called [dark_wanderer_d2rlan.zip](https://github.com/Divinakra140/Dark-Wanderer-Class/releases/download/v1.0/Dark_Wanderer_Class_v1.0.zip)
-2. Unzip the file. it should result in a "mods" folder.
-3. Place that "mods" folder in your D2RLAN Directory 
-it should sit right next to the D2R.exe 
+1. Download the latest version here: [Dark-Wanderer-Class-main.zip](https://github.com/Divinakra140/Dark-Wanderer-Class/archive/refs/heads/main.zip)
+2. Unzip the file. Inside it you will find a folder called "Dark".
+3. Place that "Dark" folder inside the "Mods" folder in your D2RLAN
+Directory (the "Mods" folder sits right next to the D2R.exe), so you
+end up with Mods\Dark\Dark.mpq 
 4. Set your launch parameters on the D2R.exe to this: 
--mods Dark -txt
+-mod Dark -txt
 that will tell the game to use the mod during launch.
 5. Double Click D2R.exe and you should see the Dark 
 Wanderer as a class you can select. 
-6. Adding the Launch Parameters -mods Dark -txt will
+6. Adding the Launch Parameters -mod Dark -txt will
 create a path to a new save folder, so your old saves 
 will not appear. However if you want to use an old save
 you can drag in your old save files (.D2s) into this folder:
 C:\Users\your username\Saved Games\Diablo II Resurrected\mods\Dark
 Note* Not all save files will work, so test them out and see
-8. In game, to obtain the Diablo's Soulstone, you can either:
+7. In game, to obtain the Diablo's Soulstone, you can either:
 Buy it from Akara in Act 1 or transmute antidote + key in cube.
 
 Mod Description and Credits:
